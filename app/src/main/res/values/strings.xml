@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practica4_Intents</string>
+    <string name="main_activity_name_inputtext_hint">¿Como te llamas?</string>
+    <string name="main_activity_surname_inputtext_hint">¿Y tu apellido?</string>
+    <string name="main_activity_age_inputtext_hint">¿Cuantos años tienes?</string>
+    <string name="main_activity_button">Me apunto</string>
+    <string name="main_activity_privacidad">Política de Privacidad</string>
+    <string name="main_activity_condiciones">Ver Condiciones</string>
+    <array name="main_activity_age_inputtext_options">
+        <item>0-5</item>
+        <item>6-11</item>
+        <item>12-17</item>
+        <item>@string/mayor_de_edad</item>
+    </array>
+    <string name="mayor_de_edad">18-99</string>
+    <string name="set_error_name_surname_input">Los caracteres \'@\' y \'!\' no estan permitidos.</string>
+    <string name="set_error_age_input">Esta app no es para ti.</string>
+</resources>
